@@ -1,0 +1,5 @@
+include requirements.txt
+include LICENSE
+recursive-include tests *.py
+recursive-include pytemplate *.py
+recursive-include examples *.py
